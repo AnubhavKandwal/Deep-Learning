@@ -1,0 +1,3 @@
+[submodule "ImageClassifier"]
+	path = ImageClassifier
+	url = https://github.com/AnubhavKandwal/ImageClassifier.git
