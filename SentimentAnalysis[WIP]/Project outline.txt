@@ -1,0 +1,16 @@
+Project name: Sentiment Analysis
+Due Date: 1st June
+
+Key working points:
+	1. Connect to google drive and fetch the data.
+	2. run the text clean-up script
+	3. run sentiment analysis
+	4. graphical represnentation
+		a. Sentiment graphical
+		b. word cloud
+	
+Pre-requisite:
+	1. File handling 
+	2. Google drive api
+	3. sentiment analysis
+	4. Dash and plotly
